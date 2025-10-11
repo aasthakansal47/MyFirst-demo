@@ -1,4 +1,4 @@
 # MyFirst-demo
-This is my basic first project -
+This is my first basic project -
 <br> Amazon clone
 
