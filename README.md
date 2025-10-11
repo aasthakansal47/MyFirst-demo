@@ -1,2 +1,4 @@
 # MyFirst-demo
-this is my first Git repository
+This is my basic first project -
+<br> Amazon clone
+
