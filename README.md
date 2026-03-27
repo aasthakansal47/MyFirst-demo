@@ -21,13 +21,14 @@ This project is an Amazon-inspired e-commerce website built using only HTML and 
 ---
 
 ## 📸 Preview
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aasthakansal47/MyFirst-demo/main/AMAZON%20CLONE%20SCREENSHOT.png" width="900"/>
+</p>
 
 ---
-
 ## 🎥 Demo
 
-▶️ Watch Demo: (Add your video link here)
+[![Watch Demo](https://raw.githubusercontent.com/aasthakansal47/MyFirst-demo/main/AMAZON%20CLONE%20SCREENSHOT.png)](https://raw.githubusercontent.com/aasthakansal47/MyFirst-demo/main/AMAZON%20CLONE%20VIDEO.mp4)
 
 ---
 
@@ -38,5 +39,3 @@ This project is an Amazon-inspired e-commerce website built using only HTML and 
 - UI/UX structuring  
 
 ---
-
-## 📁 Project Structure
